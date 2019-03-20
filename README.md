@@ -1,5 +1,5 @@
 # awesome-nodejs-starter-projects
 A curated list of Node.js starter projects/kits
 
-[Accessible Microservices with Node.js and Docker](https://github.com/dashersw/microservices-workshop)
-[Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter)
+- [Accessible Microservices with Node.js and Docker](https://github.com/dashersw/microservices-workshop)
+- [Node.js API Starter Kit](https://github.com/kriasoft/nodejs-api-starter)
